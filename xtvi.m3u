@@ -55,7 +55,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=449&uid=4870&deviceMac=00:1A:79:A7:35
 #EXTINF:0.1tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=397&uid=4870&deviceMac=00:1A:79:A7:35:51
 #EXTINF:0.1tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="http://b1g.fun/logos2/hum_news.jpg" group-title="PAKISTAN | NEWS",PK | Hum News HD
-http://xtv.ooo:8080/live/1Y527228/1Y527228/26018.ts
+http://tv.cloudcdn.me:80/live.ts?channelId=419&uid=4870&deviceMac=00:1A:79:A7:35:51
 #EXTINF:0.1tvg-id="" tvg-name="PK | Lahore News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lahore_News.png/220px-Lahore_News.png" group-title="PAKISTAN | NEWS",PK | Lahore News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=431&uid=4870&deviceMac=00:1A:79:A7:35:51
 #EXTINF:0.1tvg-id="" tvg-name="PK | PTV NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png" group-title="PAKISTAN | NEWS",PK | PTV NEWS
