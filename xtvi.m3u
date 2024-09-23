@@ -53,7 +53,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=405&6769&deviceMac=00:1A:79:0F:3D:3C
 #EXTINF:0.1tvg-id="samaatv.pk" tvg-name="PK | Samaa News" tvg-logo="https://static-media.streema.com/media/cache/9a/77/9a77625eca43e2f9336fca5525464a0d.png" group-title="PAKISTAN | NEWS",PK | Samaa News
 http://tv.cloudcdn.me:80/live.ts?channelId=449&6769&deviceMac=00:1A:79:0F:3D:3C
 #EXTINF:0.1tvg-id="" tvg-name="PK | Bol News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/BOL_News_logo.png" group-title="PAKISTAN | NEWS",PK | Bol News HD
-http://tv.cloudcdn.me:80/live.ts?channelId=397&6769&deviceMac=00:1A:79:0F:3D:3C
+http://tv.cloudcdn.me:80/live.ts?channelId=398&uid=14553&deviceMac=00:1A:79:0B:3E:D9
 #EXTINF:0.1tvg-id="humtv.pk" tvg-name="PK | Hum News HD" tvg-logo="http://b1g.fun/logos2/hum_news.jpg" group-title="PAKISTAN | NEWS",PK | Hum News HD
 http://tv.cloudcdn.me:80/live.ts?channelId=419&6769&deviceMac=00:1A:79:0F:3D:3C
 #EXTINF:0.1tvg-id="" tvg-name="PK | Lahore News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lahore_News.png/220px-Lahore_News.png" group-title="PAKISTAN | NEWS",PK | Lahore News HD
