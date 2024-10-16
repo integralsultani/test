@@ -4,7 +4,6 @@
 #EXT-X-TARGETDURATION:100
 
 
-
 #EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s900-c-k-c0x00ffffff-no-rj" group-title=" ISLAMIC",MAKKA TV LIVE
 http://tv.cloudcdn.me:80/live.ts?channelId=132248&deviceMac=00:1A:79:00:86:A7
 
@@ -159,12 +158,17 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:00:86:A7
 
 
 
+
+
+
+
+
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="DSTV | NEWS",Af | BBC News
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/745636.ts
+http://mag.redmytv.com:80/live/2oJ2NGdKaKEPdfz/56CIn93ILI/745636.ts
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/100693.ts
+http://mag.redmytv.com:80/live/2oJ2NGdKaKEPdfz/56CIn93ILI/100693.ts
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -173,11 +177,11 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/1333200.ts
+http://mag.redmytv.com:80/live/2oJ2NGdKaKEPdfz/56CIn93ILI/1333200.ts
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/118096.ts
+http://mag.redmytv.com:80/live/2oJ2NGdKaKEPdfz/56CIn93ILI/745641.ts
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
@@ -185,7 +189,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=124147&uid=1384&deviceMac=00:1A:79:00
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="DSTV | NEWS", CNN
-http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/709994
+http://mag.redmytv.com:80/live/QnbpnDsSRevKIKs/vvnlR1hkZ7/709994.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="DSTV | NEWS", Abc News Mellbourne
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B3:00:D4&stream=1130813&extension=ts&play_token=2EawivMidn
