@@ -334,3 +334,85 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B3:00:D4&stream=997056&ex
 #EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysport.png", Sky Sport Box
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B3:00:D4&stream=507138&extension=ts&play_token=TyBp1j1Mbt
 
+
+
+
+
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇⭐ pal.alphatx.me ⭐ █ ▇ ▆ ▅ ▄
+http://line.chktv.xyz:80/play/live.php
+
+
+
+
+#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=30567&extension=ts&play_token=5HFcOZttlM
+
+#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=79486&extension=ts&play_token=x9ajrdVPpq
+
+#EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1047260&extension=ts&play_token=TyL9RDPQOy
+
+#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png",BT SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=30566&extension=ts&play_token=Yvt7mUFnmE
+
+#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png",BT SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=79485&extension=ts&play_token=0rpoOOEwhp
+
+#EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png",BT SPORT 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1047261&extension=ts&play_token=dwV1BKkDIv
+
+#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=30565&extension=ts&play_token=vKxXqVlmBC
+
+#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=79484&extension=ts&play_token=Fp95tNd855
+
+#EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1047262&extension=ts&play_token=R6PihQUzTp
+
+#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1019935&extension=ts&play_token=Z6NwuW4b9w
+
+#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1002857&extension=ts&play_token=gX8T1Kfdwh
+
+#EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1047263&extension=ts&play_token=yiWOdtQHp1
+
+#EXTINF:-1. tvg-id="TNT.Sport.BoxOffice.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT BOX OFFICE
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1458650&extension=ts&play_token=sOLHlbnuPR
+
+#EXTINF:-1. tvg-id="TNT.Sport.BoxOffice.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT BOX OFFICE
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1019934&extension=ts&play_token=TjXenOamlO
+
+#EXTINF:-1. tvg-id="TNT.Sport.BoxOffice.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT BOX OFFICE
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1019933&extension=ts&play_token=xB4Ox9iCch
+
+
+#EXTINF:-1 tvg-id="SkySpBoxOff.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/skysport.png", Sky Sport Box
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=997056&extension=ts&play_token=zZpXsO3T1R
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1433040&extension=ts&play_token=4mVGNcKlNO
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1364027&extension=ts&play_token=pbTaVZrVtU
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1022190&extension=ts&play_token=ROG6wA211v
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1433056&extension=ts&play_token=RZkMS2yfSR
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=924294&extension=ts&play_token=ltJ4OD4mFn
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1364015&extension=ts&play_token=oMuvuS0mh8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+ Main
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1022191&extension=ts&play_token=AE8hZKtbJ7
+
+
+
