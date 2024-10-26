@@ -419,3 +419,12 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1364015&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1022191&extension=ts&play_token=AE8hZKtbJ7
 
 
+
+#EXTINF:-1,▃ ▄ ▅ ▆ ▇⭐ line.chktv.xyz ⭐ █ ▇ ▆ ▅ ▄
+http://line.chktv.xyz:80/play/live.php
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:5E:65:8A&stream=615651&extension=ts&play_token=JT7SksRJuM
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://line.chktv.xyz:80/play/live.php?mac=00:1A:79:5E:65:8A&stream=991093&extension=ts&play_token=OQEpnDEdCG
