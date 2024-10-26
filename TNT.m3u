@@ -335,7 +335,11 @@ http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B3:00:D4&stream=997056&ex
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B3:00:D4&stream=507138&extension=ts&play_token=TyBp1j1Mbt
 
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:8f:9f:e7&stream=1431514&extension=ts&play_token=uOGL1vN5o1
 
+#EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:8f:9f:e7&stream=1431515&extension=ts&play_token=pmCP1vxlB1
 
 
 #EXTINF:-1,▃ ▄ ▅ ▆ ▇⭐ pal.alphatx.me ⭐ █ ▇ ▆ ▅ ▄
@@ -413,6 +417,5 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1364015&exte
 
 #EXTINF:-1 tvg-id="ESPN" tvg-name=""tvg-logo="https://variety.com/wp-content/uploads/2013/09/espn-logo.jpg", ESPN+ Main
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:4F:EE:BD&stream=1022191&extension=ts&play_token=AE8hZKtbJ7
-
 
 
