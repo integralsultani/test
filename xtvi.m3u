@@ -6,15 +6,17 @@
 
 
 
-#EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quran-tv-sa.png" group-title=" ISLAMIC",MAKKA TV LIVE
+#EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="http://logo.protv.cc/picons/logos/saudiquran.jpeg" group-title=" ISLAMIC",MAKKA TV LIVE
 http://line.iptveros.com:80/play/live.php?mac=00:1A:79:B3:00:D4&stream=6626&extension=ts&play_token=UUYTViYLBt
+?channelId=132248&deviceMac=00:1A:79:0E:F8:A2
 
-#EXTINF:0.1tvg-id="" tvg-name="MADINA LIVE*" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sunna-tv-sa.png" group-title=" ISLAMIC",MADINA LIVE
+
+#EXTINF:0.1tvg-id="" tvg-name="MADINA LIVE*" tvg-logo="http://logo.protv.cc/picons/logos/saudisunnah.png" group-title=" ISLAMIC",MADINA LIVE
 http://desivicky.pktv.me/live.ts?channelId=132244&deviceMac=00:1A:79:0E:F8:A2
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="MADNI TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madani-channel-pk.png" group-title=" ISLAMIC",MADNI TV
+#EXTINF:0.1tvg-id="" tvg-name="MADNI TV" tvg-logo="https://graficsea.com/wp-content/uploads/2021/12/Madni-Tv-Channel.jpg" group-title=" ISLAMIC",MADNI TV
 http://desivicky.pktv.me/live.ts?channelId=132246&deviceMac=00:1A:79:0E:F8:A2
 
 
@@ -23,7 +25,7 @@ http://desivicky.pktv.me/live.ts?channelId=132246&deviceMac=00:1A:79:0E:F8:A2
 http://desivicky.pktv.me/live.ts?channelId=388&deviceMac=00:1A:79:0E:F8:A2
 
 
-#EXTINF:0.1tvg-id="" tvg-name="PEACE TV URDU" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title=" ISLAMIC",PEACE TV URDU
+#EXTINF:0.1tvg-id="" tvg-name="PEACE TV URDU" tvg-logo="https://logo.protv.cc/picons/logos/peacetvurdu.png" group-title=" ISLAMIC",PEACE TV URDU
 http://desivicky.pktv.me/live.ts?channelId=239&deviceMac=00:1A:79:0E:F8:A2
 
 
@@ -34,7 +36,7 @@ http://desivicky.pktv.me/live.ts?channelId=52863&deviceMac=00:1A:79:0E:F8:A2
 
 
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="http://b1g.fun/logos2/ary_news.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
-http://desivicky.pktv.me/live.ts?channelId=387&deviceMac=00:1A:79:0E:F8:A2
+http://desivicky.pktv.me/live.ts?channelId=386&deviceMac=00:1A:79:0E:F8:A2
 
 #EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://www.lyngsat.com/logo/tv/ee/express-news-pk.png" group-title="PAKISTAN | NEWS",PK | Express news
 http://desivicky.pktv.me/live.ts?channelId=408&deviceMac=00:1A:79:0E:F8:A2
@@ -439,6 +441,7 @@ http://desivicky.pktv.me/live.ts?channelId=4212&uid=1384&deviceMac=00:1A:79:0E:F
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
 http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/63583
 http://desivicky.pktv.me/live.ts?channelId=40478&deviceMac=00:1A:79:00:86:A7
+
 
 
 
