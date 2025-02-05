@@ -5,13 +5,13 @@
 31/12/2025
 
 
-#EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mesiGG76gww2WnpFVUFbMz-s2d4IjJJVhDqJuCVscqKLY=s900-c-k-c0x00ffffff-no-rj" group-title=" ISLAMIC",MAKKA TV LIVE
+#EXTINF:0.1 tvg-id="" tvg-name="MAKKA TV LIVE*" tvg-logo="http://ujm.from-in.com/panel/imageicon/371cd9d.png" group-title=" ISLAMIC",MAKKA TV LIVE
 http://xtv.ooo:8080/live/mother/mother/4.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="MADINA LIVE*" tvg-logo="https://i.pinimg.com/474x/6b/d7/3b/6bd73bbf88ef7770f6d5bc347ebcd755.jpg" group-title=" ISLAMIC",MADINA LIVE
 http://xtv.ooo:8080/live/mother/mother/26.ts
 
-#EXTINF:0.1tvg-id="" tvg-name="MADNI TV" tvg-logo="https://graficsea.com/wp-content/uploads/2021/12/Madni-Tv-Channel.jpg" group-title=" ISLAMIC",MADNI TV
+#EXTINF:0.1tvg-id="" tvg-name="MADNI TV" tvg-logo="http://ujm.from-in.com/panel/imageicon/7b7770d8" group-title=" ISLAMIC",MADNI TV
 http://mag.redmytv.com:80/2F576F473D91F32/dFJbRUhkBB/99649
 http://xtv.ooo:8080/live/mother/mother/2.ts
 
@@ -32,7 +32,7 @@ http://thebravotv.com:8080/live/mother/mother/221343.ts
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
 http://xtv.ooo:8080/live/mother/mother/25980.ts
 
-#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png" group-title="PAKISTAN | NEWS",PK | Express news
+#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="http://ujm.from-in.com/panel/imageicon/53e415c.png" group-title="PAKISTAN | NEWS",PK | Express news
 http://xtv.ooo:8080/live/mother/mother/26011.ts
 
 #EXTINF:0.1tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN | NEWS",PK | 92 News
@@ -58,7 +58,7 @@ http://xtv.ooo:8080/live/mother/mother/26007.ts
 
 
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | Lahore News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Lahore_News.png/220px-Lahore_News.png" group-title="PAKISTAN | NEWS",PK | Lahore News HD
+#EXTINF:0.1tvg-id="" tvg-name="PK | Lahore News HD" tvg-logo="http://ujm.from-in.com/panel/imageicon/bbc7561.png" group-title="PAKISTAN | NEWS",PK | Lahore News HD
 http://xtv.ooo:8080/live/mother/mother/26047.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | Lahore Rung" tvg-logo="https://lahorerang.tv/uploads/theme/logo-1550524418.jpeg" group-title="PAKISTAN | ENTERTAINMENT",PK | Lahore Rung
@@ -76,7 +76,7 @@ http://xtv.ooo:8080/live/mother/mother/25988.ts
 http://xtv.ooo:8080/live/mother/mother/25991.ts
 
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | Capital Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Capital_TV.jpg/200px-Capital_TV.jpg" group-title="PAKISTAN | NEWS",PK | Capital Tv
+#EXTINF:0.1tvg-id="" tvg-name="PK | Capital Tv" tvg-logo="http://ujm.from-in.com/panel/imageicon/10b00b7.png" group-title="PAKISTAN | NEWS",PK | Capital Tv
 http://xtv.ooo:8080/live/mother/mother/25992.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | NEO NEWS" tvg-logo="https://www.neonetwork.pk/uploads/theme/logo-1532677402.png" group-title="PAKISTAN | NEWS",PK | NEO NEWS
@@ -89,7 +89,7 @@ http://xtv.ooo:8080/live/mother/mother/26001.ts
 #EXTINF:0.1tvg-id="" tvg-name="PK | 24 News HD" tvg-logo="http://b1g.fun/logos2/24_channel.jpg" group-title="PAKISTAN | NEWS",PK | 24 News HD
 http://xtv.ooo:8080/live/mother/mother/25995.ts
 
-#EXTINF:0.1tvg-id="" tvg-name="PK | Abbtak News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c3/Abb_Tak_news_logo.png" group-title="PAKISTAN | NEWS",PK | Abbtak News
+#EXTINF:0.1tvg-id="" tvg-name="PK | Abbtak News" tvg-logo="http://ujm.from-in.com/panel/imageicon/3c79e70.png" group-title="PAKISTAN | NEWS",PK | Abbtak News
 http://xtv.ooo:8080/live/mother/mother/25997.ts
 
 
@@ -105,13 +105,13 @@ http://xtv.ooo:8080/live/mother/mother/26024.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="PK | Metro One News" tvg-logo="http://b1g.fun/logos2/metro_1.jpg" group-title="PAKISTAN | NEWS",PK | Metro One News
 http://xtv.ooo:8080/live/mother/mother/26029.ts
-#EXTINF:0.1tvg-id="" tvg-name="PK | News One" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0f/News_One_logo.png" group-title="PAKISTAN | NEWS",PK | News One
+#EXTINF:0.1tvg-id="" tvg-name="PK | News One" tvg-logo="http://ujm.from-in.com/panel/imageicon/d05f27b.png" group-title="PAKISTAN | NEWS",PK | News One
 http://xtv.ooo:8080/live/mother/mother/26030.ts
 #EXTINF:0.1tvg-id="" tvg-name="PK | Public News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Public-News-Logo-1.jpg" group-title="PAKISTAN | NEWS",PK | Public News HD
 http://xtv.ooo:8080/live/mother/mother/26034.ts
 #EXTINF:0.1tvg-id="" tvg-name="PK | Such TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/SuchTV_Logo_HQ_-.png/800px-SuchTV_Logo_HQ_-.png" group-title="PAKISTAN | NEWS",PK | Such TV
 http://xtv.ooo:8080/live/mother/mother/26037.ts
-#EXTINF:0.1tvg-id="" tvg-name="PK: CITY 41 NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/95/City_41_Logo.png" group-title="PAKISTAN | NEWS",PK: CITY 41 NEWS
+#EXTINF:0.1tvg-id="" tvg-name="PK: CITY 41 NEWS" tvg-logo="hhttp://ujm.from-in.com/panel/imageicon/c330e0d.png" group-title="PAKISTAN | NEWS",PK: CITY 41 NEWS
 http://xtv.ooo:8080/live/mother/mother/103683.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="PK: C44" tvg-logo="http://b1g.fun/logos2/channel_44.jpg" group-title="PAKISTAN | ENTERTAINMENT",PK: C44
@@ -149,7 +149,7 @@ http://xtv.ooo:8080/live/mother/mother/103687.ts
 
 
 
-#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="DSTV | NEWS",Af | BBC News
+#EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/400px-BBC_News_HD_Logo.svg.png?20231114034940" group-title="DSTV | NEWS",Af | BBC News
 http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/745636.ts
 
 
@@ -157,7 +157,7 @@ http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/745636.ts
 http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/100693
 
 
-#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera
+#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.ts
 
 
@@ -170,7 +170,7 @@ http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/1333200
 http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/118096
 
 
-#EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
+#EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://logowik.com/content/uploads/images/al-jazeera-tv6503.jpg" group-title="DSTV | NEWS", Af | Al Jazeera 1
 http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/100700
 
 
