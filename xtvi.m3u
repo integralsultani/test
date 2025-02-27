@@ -37,7 +37,7 @@ http://tv.indigotv.me/live.ts?channelId=52863&deviceMac=00:1A:79:17:BE:A5&uid=59
 #EXTINF:0.1tvg-id="arynews.eg" tvg-name="PK | ARY News HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Arynews.jpg" group-title="PAKISTAN | NEWS",PK | ARY News HD
 http://tv.indigotv.me/live.ts?channelId=387&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
-#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="https://seeklogo.com/images/E/express-news-logo-548646E4CD-seeklogo.com.png" group-title="PAKISTAN | NEWS",PK | Express news
+#EXTINF:0.1tvg-id="expressnews.pk" tvg-name="PK | Express news" tvg-logo="http://ujm.from-in.com/panel/imageicon/53e415c.png" group-title="PAKISTAN | NEWS",PK | Express news
 http://tv.indigotv.me/live.ts?channelId=408&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="92news.pk" tvg-name="PK | 92 News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/92_News_HD_Plus_logo.png" group-title="PAKISTAN | NEWS",PK | 92 News
@@ -162,11 +162,11 @@ http://tv.indigotv.me/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid=59
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://seeklogo.com/images/B/bbc-news-logo-8648ABD044-seeklogo.com.png" group-title="DSTV | NEWS",Af | BBC News
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/745636.ts
+http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/745636
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/100693.ts
+http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/100693
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -175,11 +175,11 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/1333200.ts
+http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/1333200
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
-http://mag.redmytv.com:80/live/ZRZddxyhzAwOriv/KMrVe4PT8s/118096.ts
+http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/118096
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
