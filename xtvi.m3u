@@ -167,10 +167,9 @@ http://download.best-ott.me:80/play/live.php?mac=00:1A:79:5F:A6:E3&stream=717702
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:5F:A6:E3&stream=162143&extension=ts&play_token=955Pd0loPK
+http://mag.king-4k.cc:80/live/451aad/3f41a2/51823.ts
 
-
-#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera
+#EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
@@ -183,7 +182,7 @@ http://download.best-ott.me:80/play/live.php?mac=00:1A:79:5F:A6:E3&stream=162157
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:5F:A6:E3&stream=162155&extension=ts&play_token=jIXRkDMxjF
 
 
-#EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/02/vector-al-jazeera-240x300.png" group-title="DSTV | NEWS", Af | Al Jazeera 1
+#EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera 1
 http://download.best-ott.me:80/play/live.php?mac=00:1A:79:5F:A6:E3&stream=162148&extension=ts&play_token=6FFqtnoQUc
 
 
