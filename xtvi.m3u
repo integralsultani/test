@@ -162,11 +162,11 @@ http://tv.indigotv.me/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid=59
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="DSTV | NEWS",Af | BBC News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=717702&extension=ts&play_token=XFoFtQWWxn
-
+http://mag.king-4k.cc:80/live/451aad/3f41a2/745636.m3u8
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://mag.king-4k.cc:80/live/451aad/3f41a2/51823.ts
+http://mag.king-4k.cc:80/live/451aad/3f41a2/100682.m3u8
+
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
@@ -174,22 +174,22 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162157&extension=ts&play_token=DkxkpveGgB
+http://mag.king-4k.cc:80/live/451aad/3f41a2/1333200.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162155&extension=ts&play_token=jIXRkDMxjF
+http://mag.king-4k.cc:80/live/451aad/3f41a2/745641.m3u8
 
 
 #EXTINF:0.1tvg-id="dunyanews.pk" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera 1
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162148&extension=ts&play_token=6FFqtnoQUc
+http://mag.king-4k.cc:80/live/451aad/3f41a2/100700.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1000px-CNN.svg.png" group-title="DSTV | NEWS", CNN
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162147&extension=ts&play_token=zmGUxPGvDZ
+http://mag.king-4k.cc:80/live/451aad/3f41a2/709994.m3u8
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://www.abc.net.au/core-assets/core/abc-core.png?imformat=generic" group-title="DSTV | NEWS", Abc News Mellbourne
-http://mag.redmytv.com:80/ZRZddxyhzAwOriv/KMrVe4PT8s/113609
+http://mag.king-4k.cc:80/live/451aad/3f41a2/113609.m3u8
 
 
 
@@ -361,19 +361,19 @@ http://tv.indigotv.me/live.ts?channelId=35530&deviceMac=00:1A:79:17:BE:A5&uid=59
 http://tv.indigotv.me/live.ts?channelId=295&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:-1. tvg-id="TNT.Sports.1.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 1
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=1290377&extension=ts&play_token=nsMJRRjAQO
+http://tv.indigotv.me/live.ts?channelId=267&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
 #EXTINF:-1. tvg-id="TNTSports2.HD.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png",BT SPORT 2
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=1290376&extension=ts&play_token=ebk6sC0Cu0
+http://tv.indigotv.me/live.ts?channelId=268&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
 #EXTINF:-1. tvg-id="TNT.Sports.3.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 3
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=1290375&extension=ts&play_token=KhjQTHUcrn
+http://tv.indigotv.me/live.ts?channelId=269&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
 #EXTINF:-1. tvg-id="TNT.Sports.4.uk" tvg-name="" tvg-logo="http://logo.protv.cc/picons/logos/UK/BTSPORT.png" ,BT SPORT 4
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=1290374&extension=ts&play_token=SYX0AoQ6c3
+http://tv.indigotv.me/live.ts?channelId=270&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
 
@@ -390,7 +390,7 @@ http://tv.indigotv.me/live.ts?channelId=19754&deviceMac=00:1A:79:17:BE:A5&uid=59
 http://tv.indigotv.me/live.ts?channelId=244&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="cartoonnetworkhd.in1" tvg-name="IN: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/2000px-Cartoon_Network_2010_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Cartoon Network 1
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=842690&extension=ts&play_token=TFRaafLBpC
+http://tv.indigotv.me/live.ts?channelId=246&uid=5954&deviceMac=00:1A:79:17:BE:A5
 
 #EXTINF:0.1tvg-id="nick.in" tvg-name="IN: Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png" group-title="INDIAN | KIDS Cartoon",IN: Nick
 http://xtv.ooo:8080/live/mother/mother/150482.ts
@@ -407,13 +407,13 @@ http://xtv.ooo:8080/live/mother/mother/307079.ts
 http://tv.indigotv.me/live.ts?channelId=33167&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="discoveryhd.in" tvg-name="IND: Discovery Hindi" tvg-logo="http://b1g.fun/logos2/discoveryhd.jpg" group-title="INDIAN | DOCUMENTARY",IND: Discovery
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162375&extension=ts&play_token=QVjmQQ2b3g
+http://tv.indigotv.me/live.ts?channelId=4223&uid=1384&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="IND: Discovery Science" tvg-logo="http://b1g.fun/logos2/discovery_science.jpg" group-title="INDIAN | DOCUMENTARY",IND: Discovery Science
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=162390&extension=ts&play_token=Eoi8Ne1DRh
+http://tv.indigotv.me/live.ts?channelId=25891&uid=5954&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic HD *" tvg-logo="http://b1g.fun/logos2/net_geo_hindihd.jpg" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic HD *
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=717708&extension=ts&play_token=s0cxKPkEIR
+http://tv.indigotv.me/live.ts?channelId=125057&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="0" tvg-name="Af | DSTV: National Geographic WILD HD*" tvg-logo="http://b1g.fun/logos2/nat_geo_wildhd.jpg" group-title="DSTV | DOCUMENTARY",Af | DSTV: National Geographic WILD HD*
 http://tv.indigotv.me/live.ts?channelId=177&deviceMac=00:1A:79:17:BE:A5&uid=5954
@@ -422,7 +422,7 @@ http://tv.indigotv.me/live.ts?channelId=177&deviceMac=00:1A:79:17:BE:A5&uid=5954
 http://tv.indigotv.me/live.ts?channelId=4212&uid=5954&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 #EXTINF:0.1tvg-id="" tvg-name="Sony BBC Ear (4K)" tvg-logo="https://d7lhl2xa7nj3o.cloudfront.net/images/logo.png" group-title="INDIAN | 4K ULTRA HD",Sony BBC Ear (4K)
-http://download.best-ott.me:80/play/live.php?mac=00:1A:79:62:37:31&stream=842876&extension=ts&play_token=FnvB2Jm2Js
+http://tv.indigotv.me/live.ts?channelId=40478&deviceMac=00:1A:79:17:BE:A5&uid=5954
 
 
 
