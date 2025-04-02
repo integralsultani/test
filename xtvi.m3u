@@ -165,8 +165,7 @@ http://tv.indigotv.me/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid=59
 http://mag.king-4k.cc:80/live/451aad/3f41a2/745636.m3u8
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://mag.king-4k.cc:80/live/451aad/3f41a2/100682.m3u8
-
+https://line.now-ott.xyz:443/live/451AAD/3f41a2/709996.ts
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
 https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
