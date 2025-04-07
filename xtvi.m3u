@@ -166,13 +166,11 @@ http://tv.cloudcdn.me:80/live.ts?channelId=32496&deviceMac=00:1A:79:17:BE:A5&uid
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="https://icon-tmdb.me/stalker_portal/misc/logos/320/12028.jpg?67314" group-title="DSTV | NEWS",Af | BBC News
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:57&stream=820633&extension=ts&play_token=Cqn7F0nc6c
-
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:17:1E:57&stream=947890&extension=ts&play_token=YaBgzkiWdd
 
 
 #EXTINF:0.1tvg-id="bbcworldnews.za" tvg-name="Af | DSTV: BBC World News" tvg-logo="http://vod-logo.net/photos/6fc57894c1daaf83ccdf51047ce06bd1.png" group-title="DSTV | NEWS",Af | BBC World News
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:57&stream=821336&extension=ts&play_token=bimYg3Ys44
-
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:17:1E:57&stream=855327&extension=ts&play_token=V4SM4ImaJo
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="http://ujm.from-in.com/imageicon/662e2df3.jpg" group-title="DSTV | NEWS", Af | Al Jazeera
@@ -181,8 +179,7 @@ https://live-hls-web-aje-fa.getaj.net/alternative/AJE/02.m3u8
 
 
 #EXTINF:0.1tvg-id="" tvg-name="IN: Al Jazeera" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9vshNXCSAUbC5oHLxhEVbDhecR4uXr9ohTg&s" group-title="DSTV | NEWS", TRT World
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:1E:57&stream=197254&extension=ts&play_token=n6ZJ8S3J0e
-
+http://main.light-ott.net:80/play/live.php?mac=00:1a:79:17:1E:57&stream=197286&extension=ts&play_token=25Jr9mXju6
 
 
 #EXTINF:0.1tvg-id="" tvg-name="Skynews" tvg-logo="https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/blt930f08f36cc65323/6311d7787066f57e88f6cde9/Sky-News-Main.jpg?downsize=1200:*&output-format=jpg" group-title="DSTV | NEWS", Sky News
